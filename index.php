@@ -1,0 +1,4 @@
+<?
+echo "Primeira linha";
+
+?>
